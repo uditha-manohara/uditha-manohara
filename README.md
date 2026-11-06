@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Uditha Manohara Prasad — Software Engineer, AI Engineering" width="100%"/>
+<img src="banner.svg" alt="Uditha Manohara Prasad — Software Engineer, AI Engineering" width="100%"/>
 
 <p>
 <a href="https://udithamanohara.dev">Portfolio</a> &nbsp;·&nbsp;
